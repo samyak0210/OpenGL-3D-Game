@@ -1,0 +1,3 @@
+/home/samyak/Sem-IV/Graphics/Assignment2/20161083_assgn2/build/CMakeFiles/edit_cache.dir
+/home/samyak/Sem-IV/Graphics/Assignment2/20161083_assgn2/build/CMakeFiles/rebuild_cache.dir
+/home/samyak/Sem-IV/Graphics/Assignment2/20161083_assgn2/build/CMakeFiles/graphics_asgn1.dir
